@@ -1,0 +1,1 @@
+Our remote repository is hosted on GitHub. This will let us keep track of our project using the GitHub platform. To connect our local repository to the GitHub repository, we must add a remote reference to the GitHub
